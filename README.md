@@ -6,4 +6,4 @@
 
 
 
-#### **네이버_뉴스_Bag_of_words_분석 링크: https://colab.research.google.com/drive/11yfZYOGyJfev-wqSo8_RDAMkLejYK4qf?usp=sharing
+**네이버_뉴스_Bag_of_words_분석 링크: https://colab.research.google.com/drive/11yfZYOGyJfev-wqSo8_RDAMkLejYK4qf?usp=sharing
